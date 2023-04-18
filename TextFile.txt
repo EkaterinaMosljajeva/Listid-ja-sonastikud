@@ -1,0 +1,4 @@
+﻿Harjumaa-Tallinn
+Tartumaa-Tartu
+Hiiumaa-Kärdla
+Valgamaa-Valga
